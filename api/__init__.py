@@ -1,0 +1,1 @@
+# The __init__.py support 2 main purposes : It marks the directory as a Python Package so that the interpreter can find the modules inside it.
